@@ -1,0 +1,27 @@
+{
+  "name": "calculador",
+  "version": "1.0.0",
+  "description": "Desarrollo de calculadora",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanvs23/calculadora-react.git"
+  },
+  "author": "Juan Carlos Avila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanvs23/calculadora-react/issues"
+  },
+  "homepage": "https://github.com/juanvs23/calculadora-react#readme",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "next": "^9.1.1",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
+}
